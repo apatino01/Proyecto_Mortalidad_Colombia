@@ -1,0 +1,9 @@
+# Entorno virtual y cachés de Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# Archivos del sistema / editor
+.DS_Store
+.vscode/
